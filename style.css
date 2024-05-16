@@ -144,10 +144,16 @@ a.button:hover {
 
     #conteiner_min {
         display: block;
+        text-align: center:
         min-width: 200px;
-        width: 50%;
+        width: 100%;
         margin-left: 10%;
         margin-top: 35%;
+    }
+    #gallery {
+        margin-top: 350px;
+        text-align: center;
+        page-break-before: always;
     }
 }
 
